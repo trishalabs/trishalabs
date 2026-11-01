@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**trishalabs/trishalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, i'm trisha! 🧪
 
-Here are some ideas to get you started:
+**marketer by profession. curious abt almost everything else.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i work on growth strategy, content, and marketing systems. lately i've been getting into ai, automation, and building random little things bc apparently having hobbies wasn't enough lol.
+
+## what i do 💻
+
+- growth marketing & content strategy
+- ai-powered marketing automation
+- seo, aeo & organic acquisition
+- marketing operations & systems
+
+## selected work 📈
+
+- executive brand growth & content systems
+- ai-assisted marketing workflows
+- multi-location seo & aeo programs
+- b2b acquisition strategy
+
+## outside the marketing bubble 🔬
+
+sometimes i build things just to see if i can.
+
+- 🌻 a robotic sunflower that follows light
+- 🕷️ a spider robot that hunts for lost objects
+- 🌿 a tiny DIY greenhouse
+
+*a little strategy, a little science, and a lot of curiosity. ♡*
