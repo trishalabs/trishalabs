@@ -19,12 +19,20 @@ i work on growth strategy, content, and marketing systems. lately i've been gett
 - multi-location seo & aeo programs
 - b2b acquisition strategy
 
-## outside the marketing bubble 🔬
+
+## the marketing lab 🧠
 
 sometimes i build things just to see if i can.
 
-- 🌻 a robotic sunflower that follows light
-- 🕷️ a spider robot that hunts for lost objects
-- 🌿 a tiny DIY greenhouse
+trying to understand why humans click, share, believe, and buy things.
+
+some experiments on my wishlist:
+
+- 🦠 **virality-lab** — can we simulate how an idea goes viral?
+- 🐠 **algorithm-aquarium** — what happens when algorithms decide what we see?
+- 🎣 **clickbait-detector** — can ai recognize a headline that's trying too hard?
+- 🎭 **persuasion-paradox** — why does the same message work differently depending on how it's framed?
+- 👻 **search-engine-ghosts** — why can search engines find some things that ai can't?
+- 🧠 **attention-span.exe** — can we model the moment someone gets bored?
 
 *a little strategy, a little science, and a lot of curiosity. ♡*
