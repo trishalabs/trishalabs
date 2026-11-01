@@ -18,3 +18,5 @@ i work on growth strategy, content, and marketing systems. lately i've been gett
 - 🤖 ai-powered content operations
 - 📍 multi-location seo & aeo
 - 🧩 b2b growth & acquisition
+
+<img src="./b42e565272ce9fa03a8df4e80d0ca8ce Background Removed.png" width="280" alt="trisha" />
