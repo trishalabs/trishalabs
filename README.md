@@ -14,10 +14,10 @@ i work on growth strategy, content, and marketing systems. lately i've been gett
 
 ## selected work 📈
 
-- executive brand growth & content systems
-- ai-assisted marketing workflows
-- multi-location seo & aeo programs
-- b2b acquisition strategy
+- 📱 0 → 100k+ followers
+- 🤖 ai-powered content operations
+- 📍 multi-location seo & aeo
+- 🧩 b2b growth & acquisition
 
 
 ## the marketing lab 🧠
@@ -34,5 +34,3 @@ some experiments on my wishlist:
 - 🎭 **persuasion-paradox** — why does the same message work differently depending on how it's framed?
 - 👻 **search-engine-ghosts** — why can search engines find some things that ai can't?
 - 🧠 **attention-span.exe** — can we model the moment someone gets bored?
-
-*a little strategy, a little science, and a lot of curiosity. ♡*
